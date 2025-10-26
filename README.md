@@ -17,8 +17,9 @@
 <h3 align="left">Tools:</h3>
 <span>
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,9 +27,16 @@
      <a href="https://instagram.com/max.aranda05"> 
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
      </a>
+     </a>
+          <a href="https://www.facebook.com/maximiliano.arandaleon">
+          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"
+     </a>
      <a href="https://x.com/M4X_AR4NDA">
           <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> 
      </a>
+     <a href="https://steamcommunity.com/profiles/76561199060798234">
+          <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"
+     </a>     
 </span>
 
 -----
