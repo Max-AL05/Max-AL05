@@ -30,3 +30,19 @@
           <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> 
      </a>
 </span>
+
+-----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=M4X05&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/M4X05)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=M4X05&theme=material-palenight)](https://github.com/M4X05)
+</div>
+
+-----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
