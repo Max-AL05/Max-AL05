@@ -46,7 +46,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Max-AL05&show_icons=true&bg_color=DEG,000000,DE0000&text_color=FFFFFF&title_color=FFFFFF&icon_color=DE0000&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Max-AL05&show_icons=true&bg_color=DEG,000000,DB0000&text_color=FFFFFF&title_color=FFFFFF&icon_color=DE0000&hide_border=true"/>
 
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-AL05&layout=donut-vertical&text_color=FFFFFF&title_color=FFFFFF&bg_color=000000&hide_border=true"/>
