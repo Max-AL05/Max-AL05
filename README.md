@@ -47,7 +47,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Max-AL05&show_icons=true&bg_color=DEG,000000,DE0000&text_color=FFFFFF&title_color=FFFFFF&icon_color=DE0000"/>
 
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-AL05&layout=donut&bg_color=000000&text_color=FFFFFF&title_color=FF0000"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-AL05&layout=donut&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF"/>
   
  
 
