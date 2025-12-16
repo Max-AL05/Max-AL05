@@ -44,12 +44,12 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-AL05&show_icons=true&bg_color=DEG,000000,DE0000&text_color=FFFFFF&title_color=FFFFFF&icon_color=DE0000)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Max-AL05&show_icons=true&bg_color=DEG,000000,DE0000&text_color=FFFFFF&title_color=FFFFFF&icon_color=DE0000"/>
 
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Max-AL05&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-AL05&layout=donut&bg_color=000000&text_color=FFFFFF&title_color=FF0000"/>
   
-  </td>
+ 
 
 </div>
 
