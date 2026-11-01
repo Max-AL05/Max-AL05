@@ -18,10 +18,10 @@
 
 <div align="center">
      <h3>Connect with me:</h3>
-          <a href="https://www.instagram.com/maxaranda_?xtok=MXdndzBzbWIzNWpzZw=="><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=46&animation=glow&showText=true&link=https%3A%2F%2Fwww.instagram.com%2Fmaxaranda_%3Fxtok%3DMXdndzBzbWIzNWpzZw%3D%3D" alt="instagram" /></a>
-          <a href="https://www.facebook.com/share/1GZH5oggZG/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=46&animation=glow&showText=true&link=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GZH5oggZG%2F" alt="facebook" /></a>
-          <a href="https://steamcommunity.com/profiles/76561199060798234/"><img src="https://www.readmecodegen.com/api/social-icon?name=steam&size=46&animation=glow&showText=true&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199060798234%2F" alt="steam" /></a>
-          <a href="https://www.tiktok.com/@maxaranda_?_r=1&_t=ZS-9B37wNwgt2v"><img src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=46&animation=glow&showText=true&link=https%3A%2F%2Fwww.tiktok.com%2F%40maxaranda_%3F_r%3D1%26_t%3DZS-9B37wNwgt2v" alt="tiktok" /></a>
+          <a href="https://www.instagram.com/maxaranda_?xtok=MXdndzBzbWIzNWpzZw=="><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&shape=circle&reverseBackground=true&showText=true&textColor=%23ef4444&link=https%3A%2F%2Fwww.instagram.com%2Fmaxaranda_%3Fxtok%3DMXdndzBzbWIzNWpzZw%3D%3D" alt="instagram" /></a>
+          <a href="https://www.facebook.com/share/1GZH5oggZG/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=40&shape=circle&reverseBackground=true&showText=true&textColor=%233b82f6&link=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GZH5oggZG%2F" alt="facebook" /></a>
+          <a href="https://www.tiktok.com/@maxaranda_?_r=1&_t=ZS-9B37wNwgt2v"><img src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=40&shape=circle&reverseBackground=true&showText=true&textColor=%23000000&link=https%3A%2F%2Fwww.tiktok.com%2F%40maxaranda_%3F_r%3D1%26_t%3DZS-9B37wNwgt2v" alt="tiktok" /></a>
+          <a href="https://steamcommunity.com/profiles/76561199060798234/"><img src="https://www.readmecodegen.com/api/social-icon?name=steam&size=40&shape=circle&reverseBackground=true&showText=true&textColor=%233b82f6&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199060798234%2F" alt="steam" /></a>
      
 </div>
 
