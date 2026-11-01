@@ -18,21 +18,10 @@
 
 <div align="center">
      <h3>Connect with me:</h3>
-     <span>
-          <a href="https://instagram.com/maxaranda_l"> 
-               <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
-          </a>
-          </a>
-               <a href="https://www.facebook.com/maximiliano.arandaleon">
-               <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"
-          </a>
-          <a href="https://x.com/M4X_AR4NDA">
-               <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> 
-          </a>
-          <a href="https://steamcommunity.com/profiles/76561199060798234">
-               <img src="https://img.shields.io/badge/steam-0D2251?style=for-the-badge&logo=steam"
-          </a>     
-     </span>
+          <a href="https://www.instagram.com/maxaranda_?xtok=MXdndzBzbWIzNWpzZw=="><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=46&animation=glow&showText=true&link=https%3A%2F%2Fwww.instagram.com%2Fmaxaranda_%3Fxtok%3DMXdndzBzbWIzNWpzZw%3D%3D" alt="instagram" /></a>
+          <a href="https://www.facebook.com/share/1GZH5oggZG/"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=46&animation=glow&showText=true&link=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GZH5oggZG%2F" alt="facebook" /></a>
+          <a href="https://steamcommunity.com/profiles/76561199060798234/"><img src="https://www.readmecodegen.com/api/social-icon?name=steam&size=46&animation=glow&showText=true&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199060798234%2F" alt="steam" /></a>
+     
 </div>
 
 
