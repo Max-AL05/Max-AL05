@@ -16,6 +16,32 @@
   
 </div>
 
+<hr>
+
+<div align="left">
+  <h3> About Me</h3>
+  
+  <img align="right" width="300" src="https://i.pinimg.com/1200x/51/68/88/516888b6eacded0180c808c6fd4b60f5.jpg" alt="Foto de perfil">
+  
+  <p>
+    <b>Maximiliano, here</b> — an Information Technology Engineering student based in Mexico, focused on systems administration, databases, and network security.
+  </p>
+  
+  <p>
+    I enjoy working with Linux system administration, configuring Debian virtual machines, and writing complex SQL scripts for data warehouses. I am constantly improving my understanding of how real-world infrastructure operates.
+  </p>
+  
+  <p>
+    Currently, I'm exploring container networking with Podman and diving into web security concepts, while sharpening my problem-solving skills to tackle enterprise-level challenges.
+  </p>
+  
+  <p>
+    My goal is simple: build secure infrastructure, manage reliable databases, and grow into an IT engineer who creates scalable and efficient systems.
+  </p>
+</div>
+
+<hr>
+
 <div align="center">
 <h3>Lenguages:</h3>
      <span>
