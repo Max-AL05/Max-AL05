@@ -13,7 +13,6 @@
   <br>
   
 </div>
-
 <hr>
 
 <div align="left">
@@ -58,5 +57,11 @@
           <a href="https://steamcommunity.com/profiles/76561199060798234/"><img src="https://www.readmecodegen.com/api/social-icon?name=steam&size=40&shape=circle&reverseBackground=true&showText=true&textColor=%233b82f6&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199060798234%2F" alt="steam" /></a>
 </div>
 
+<hr>
 
+<div align="center">
+     <a href="https://www.readmecodegen.com/custom-github-card-generator">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Max-AL05&cardType=langs&showProfilePic=false&showBorder=false" alt="Custom GitHub Stats" />
+</a>
+</div>
 
