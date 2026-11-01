@@ -21,23 +21,21 @@
 <div align="left">
   <h3> About Me</h3>
   
-  <img align="right" width="300" src="https://i.pinimg.com/1200x/51/68/88/516888b6eacded0180c808c6fd4b60f5.jpg" alt="Foto de perfil">
+  <img align="right" width="280" src="https://i.pinimg.com/1200x/51/68/88/516888b6eacded0180c808c6fd4b60f5.jpg" alt="Foto de perfil">
   
-  <p>
-    <b>Maximiliano, here</b> — an Information Technology Engineering student based in Mexico, focused on systems administration, databases, and network security.
+ <p>
+    I am an Information Technologies Engineering student based in Mexico, deeply passionate about cybersecurity, systems administration, and network development. I enjoy building secure, resilient infrastructure and solving complex technical challenges.
   </p>
   
   <p>
-    I enjoy working with Linux system administration, configuring Debian virtual machines, and writing complex SQL scripts for data warehouses. I am constantly improving my understanding of how real-world infrastructure operates.
+    My hands-on experience includes Linux system administration, managing Debian virtual environments, and writing advanced SQL scripts for data warehouse processing. Lately, I've been focusing on container networking using Podman, configuring dynamic network isolation to analyze web security threats and malware behavior safely.
   </p>
   
   <p>
-    Currently, I'm exploring container networking with Podman and diving into web security concepts, while sharpening my problem-solving skills to tackle enterprise-level challenges.
+    Equipped with a solid professional command of both English and Spanish, I believe in clear technical communication—whether it's breaking down complex projects, designing visual workflow diagrams, or collaborating with a team.
   </p>
   
-  <p>
-    My goal is simple: build secure infrastructure, manage reliable databases, and grow into an IT engineer who creates scalable and efficient systems.
-  </p>
+
 </div>
 
 <hr>
