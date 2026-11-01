@@ -60,8 +60,9 @@
 <hr>
 
 <div align="center">
+     <h3>GitHub stats:</h3>
      <a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Max-AL05&cardType=langs&showProfilePic=false&showBorder=false" alt="Custom GitHub Stats" />
+  <img  width="400" src="https://www.readmecodegen.com/api/github-stats/svg?username=Max-AL05&cardType=langs&showProfilePic=false&showBorder=false" alt="Custom GitHub Stats" />
 </a>
 </div>
 
