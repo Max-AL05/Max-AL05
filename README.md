@@ -21,7 +21,7 @@
 <div align="left">
   <h3> About Me</h3>
   
-  <img align="right" width="200" src="https://i.pinimg.com/1200x/51/68/88/516888b6eacded0180c808c6fd4b60f5.jpg" alt="Foto de perfil">
+  <img align="right" width="230" src="https://i.pinimg.com/1200x/51/68/88/516888b6eacded0180c808c6fd4b60f5.jpg" alt="Foto de perfil">
   
  <p>
     I am an Information Technologies Engineering student based in Mexico, deeply passionate about cybersecurity, systems administration, and network development. I enjoy building secure, resilient infrastructure and solving complex technical challenges.
