@@ -5,6 +5,18 @@
 <h1 align="center">Hi , I'm Max Aranda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
+  <h3>IT Engineering Student</h3>
+  
+  <br>
+  <p>
+    <em>"Living alone is like being at a party where nobody pays attention to you."</em><br>
+    — <b>Marilyn Monroe</b>
+  </p>
+  <br>
+  
+</div>
+
+<div align="center">
 <h3>Lenguages:</h3>
      <span>
           <img src="https://www.readmecodegen.com/api/social-icon?name=golang&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%2300ADD8" alt="golang" />
