@@ -65,5 +65,3 @@
   <img  width="400" src="https://www.readmecodegen.com/api/github-stats/svg?username=Max-AL05&cardType=langs&showProfilePic=false&showBorder=false" alt="Custom GitHub Stats" />
 </a>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Max-AL05)](https://github.com/Max-AL05/github-readme-activity-graph)
