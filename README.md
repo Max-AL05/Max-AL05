@@ -6,14 +6,13 @@
 
 <h3 align="left">Lenguages:</h3>
 <span>
-     <img src="https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=DB0000">
-     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=OpenJDK&logoColor=DB0000">
-     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=DB0000">
-     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=DB0000">
-     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css&logoColor=DB0000">
-     <img src="https://img.shields.io/badge/scss-red?style=for-the-badge&logo=sass&logoColor=DB0000&color=black">
-     <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=DB0000">
-     <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=DB0000&color=black">
+     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor">
+     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css&logoColor=663399">
+     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor">
+     <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=9D0C04&color=black">
+     <img src="https://img.shields.io/badge/Go-red?style=for-the-badge&logo=go&logoColor&color=black">
+     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=OpenJDK&logoColor">
+
 </span>
 
 <h3 align="left">Tools:</h3>
