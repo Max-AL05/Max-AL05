@@ -7,12 +7,12 @@
 <div align="center">
 <h3>Lenguages:</h3>
      <span>
-          <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor">
-          <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css&logoColor=663399">
-          <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor">
-          <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=9D0C04&color=black">
-          <img src="https://img.shields.io/badge/Go-red?style=for-the-badge&logo=go&logoColor&color=black">
-          <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=OpenJDK&logoColor">
+          <img src="https://www.readmecodegen.com/api/social-icon?name=golang&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%2300ADD8" alt="golang" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%23007396" alt="java" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=ruby&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%23CC342D" alt="ruby" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%23E34F26" alt="html5" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%231572B6" alt="css3" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%23F7DF1E" alt="javascript" />
      </span>
 </div>
 
