@@ -46,6 +46,7 @@
           <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%23E34F26" alt="html5" />
           <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%231572B6" alt="css3" />
           <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%23F7DF1E" alt="javascript" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&shape=circle&reverseBackground=true&textAlignment=horizontal&showText=true&textColor=%233776AB" alt="python" />
      </span>
 </div>
 
