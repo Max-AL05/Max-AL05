@@ -60,8 +60,13 @@
 <hr>
 
 <div align="center">
-     <h3>GitHub stats:</h3>
-     <a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img  width="400" src="https://www.readmecodegen.com/api/github-stats/svg?username=Max-AL05&cardType=langs&showProfilePic=false&showBorder=false" alt="Custom GitHub Stats" />
-</a>
+     
+![](https://streak-stats.demolab.com/?user=Max-AL05&theme=dark&hide_border=false)
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Max-AL05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+     
 </div>
